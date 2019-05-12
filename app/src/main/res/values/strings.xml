@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GRE Words</string>
+    <string name="test">Test</string>
+    <string name="next">Next</string>
+    <string name="show">Show</string>
+    <string name="enter_your_answer">Enter your answer</string>
+    <string name="correct">Correct</string>
+    <string name="submit">Submit</string>
+    <string name="mnemonic">Mnemonic</string>
+    <string name="wrong">Wrong</string>
+    <string name="search">Search</string>
+    <string name="enter_word">Enter word</string>
+</resources>

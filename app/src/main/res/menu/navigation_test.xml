@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_submit"
+        android:icon="@drawable/trending_neutral"
+        android:title="@string/submit"/>
+
+    <item
+        android:id="@+id/navigation_mnemonic"
+        android:icon="@drawable/arrow_left_circle"
+        android:title="@string/mnemonic"/>
+
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_next"
+        android:icon="@android:drawable/ic_media_next"
+        android:title="@string/next"/>
+
+    <item
+        android:id="@+id/navigation_test"
+        android:icon="@drawable/account_badge_horizontal_outline"
+        android:title="@string/test"/>
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/magnify"
+        android:title="@string/search"/>
+
+</menu>
